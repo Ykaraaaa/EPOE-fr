@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<HealScars.label>Лечить шрам</HealScars.label>
-	<HealScars.description>Залечивание шрамов с использованием синтетической кожи.</HealScars.description>
-	<HealScars.jobString>Лечение шрама</HealScars.jobString>
+	<HealScars.label>Recouvrir une cicatrice</HealScars.label>
+	<HealScars.description>Recouvre la cicatrice avec de la peau synthétique.</HealScars.description>
+	<HealScars.jobString>En train de recouvrir une cicatrice</HealScars.jobString>
 
 </LanguageData>

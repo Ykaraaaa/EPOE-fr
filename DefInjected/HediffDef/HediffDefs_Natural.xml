@@ -1,12 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 		
-	<Stomach.label>Желудок</Stomach.label>
-	<Heart.label>Сердце</Heart.label>
-	<Nose.label>Нос</Nose.label>
-	<Leg.label>Нога</Leg.label>
-	<Arm.label>Рука</Arm.label>
-	<Jaw.label>Челюсть</Jaw.label>
-	<Eye.label>Глаз</Eye.label>
+   <Stomach.label>Estomac</Stomach.label>
+   <Heart.label>Coeur</Heart.label>
+   <Nose.label>Nez</Nose.label>
+   <Arm.label>Bras</Arm.label>
+   <Leg.label>Jampe</Leg.label>
+   <Jaw.label>Mâchoire</Jaw.label>
+   <Eye.label>Oeil</Eye.label>
+
 	
 </LanguageData>

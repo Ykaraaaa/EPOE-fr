@@ -1,31 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-		
-	<GlassEye.label>Стеклянный глаз</GlassEye.label>
-	<GlassEye.description>Замена потерянному глазу. Красивее чем повязка на глаз.</GlassEye.description>
-	
-	<CrystalEye.label>Хрустальный глаз</CrystalEye.label>
-	<CrystalEye.description>Замена потерянному глазу. Красивее чем стеклянный глаз.</CrystalEye.description>
-	
-	<ArtificialNose.label>Искусственный нос</ArtificialNose.label>
-	<ArtificialNose.description>Замена потерянному носу. Закрывает отверстие в лице.</ArtificialNose.description>
-	
-	<HydraulicJaw.label>Гидравлическая челюсть</HydraulicJaw.label>
-	<HydraulicJaw.description>Замена потерянной челюсти.</HydraulicJaw.description>
 
-	<ArtificialPelvis.label>Искусственный таз</ArtificialPelvis.label>
-	<ArtificialPelvis.description>Замена потерянному тазу. Довольно полезно, если ползание не ваш любимый вид передвижения.</ArtificialPelvis.description>
-	
-	<SimpleProstheticHand.label>Простой протез кисти</SimpleProstheticHand.label>
-	<SimpleProstheticHand.description>Замена потерянной кисти. Более комфортно и менее пугающе, чем крюк.</SimpleProstheticHand.description>
-	
-	<SimpleProstheticFoot.label>Простой протез ступни</SimpleProstheticFoot.label>
-	<SimpleProstheticFoot.description>Замена потерянной ступне.</SimpleProstheticFoot.description>
-	
-	<SimpleProstheticLeg.label>Простой протез ноги</SimpleProstheticLeg.label>
-	<SimpleProstheticLeg.description>Замена потерянной ноге. Не очень удобно, но эффективно.</SimpleProstheticLeg.description>
-	
-	<SimpleProstheticArm.label>Простой протез руки</SimpleProstheticArm.label>
-	<SimpleProstheticArm.description>Простой, но прочный протез руки.</SimpleProstheticArm.description>
+   <GlassEye.label>Oeil de verre</GlassEye.label>
+   <GlassEye.description>Remplace un oeil manquant. Plus beau qu'un couvre-oeil.</GlassEye.description>
+
+   <CrystalEye.label>Oeil en cristal</CrystalEye.label>
+   <CrystalEye.description>Remplace un oeil manquant. C'est tellement beau que ç'en est une honte que vous ne pouvez pas vous voir dans un mirroir.</CrystalEye.description>
+
+   <ArtificialNose.label>Nez artificiel</ArtificialNose.label>
+   <ArtificialNose.description>Remplace un nez manquant. Recouvre le trou dans le visage.</ArtificialNose.description>
+
+   <HydraulicJaw.label>Mâchoire hydraulique</HydraulicJaw.label>
+   <HydraulicJaw.description>Remplace une mâchoire manquante. Soyez prudent, ces dents sont d'une efficacité extrême !</HydraulicJaw.description>
+
+   <SimpleProstheticHand.label>Prothèse de main simple</SimpleProstheticHand.label>
+   <SimpleProstheticHand.description>Remplace une main manquante. Beaucoup plus confortable et moins effrayant que la main-crochet.</SimpleProstheticHand.description>
+
+   <SimpleProstheticFoot.label>Prothèse de pied simple</SimpleProstheticFoot.label>
+   <SimpleProstheticFoot.description>Remplace un pied manquant. Pas pire qu'un pied en bois.</SimpleProstheticFoot.description>
+
+   <ArtificialPelvis.label>Bassin artificiel</ArtificialPelvis.label>
+   <ArtificialPelvis.description>Remplace un bassin artificiel. Plutôt utile si ramper n'est pas votre moyen de déplacement préféré.</ArtificialPelvis.description>
 
 </LanguageData>

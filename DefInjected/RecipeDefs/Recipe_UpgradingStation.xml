@@ -1,44 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<CreateAdvancedBionicEye.label>Модернизировать бионический глаз</CreateAdvancedBionicEye.label>
-	<CreateAdvancedBionicEye.description>Модернизация бионического глаза с помощью вансидиума.</CreateAdvancedBionicEye.description>
-    <CreateAdvancedBionicEye.jobString>Модернизация бионического протеза</CreateAdvancedBionicEye.jobString>
+	<CreateAdvancedBionicEye.label>Créer un oeil bionique avancé</CreateAdvancedBionicEye.label>
+	<CreateAdvancedBionicEye.description>Crée un oeil bionique avancé.</CreateAdvancedBionicEye.description>
+    <CreateAdvancedBionicEye.jobString>En train de créer un oeil bionique avancé</CreateAdvancedBionicEye.jobString>
 	
-	<CreateAdvancedPowerArm.label>Модернизировать силовую руку</CreateAdvancedPowerArm.label>
-	<CreateAdvancedPowerArm.description>Модернизация бионической руки с помощью вансидиума.</CreateAdvancedPowerArm.description>
-    <CreateAdvancedPowerArm.jobString>Модернизация бионического протеза</CreateAdvancedPowerArm.jobString>
+	<CreateAdvancedPowerArm.label>Créer un bras puissant avancé</CreateAdvancedPowerArm.label>
+	<CreateAdvancedPowerArm.description>Crée un bras puissant avancé.</CreateAdvancedPowerArm.description>
+    <CreateAdvancedPowerArm.jobString>En train de créer un bras puissant avancé</CreateAdvancedPowerArm.jobString>
 	
-	<CreateAdvancedBionicArm.label>Модернизировать бионическую руку</CreateAdvancedBionicArm.label>
-	<CreateAdvancedBionicArm.description>Модернизация бионической руки с помощью вансидиума.</CreateAdvancedBionicArm.description>
-    <CreateAdvancedBionicArm.jobString>Модернизация бионического протеза</CreateAdvancedBionicArm.jobString>
+	<CreateAdvancedBionicArm.label>Créer un bras bionique avancé</CreateAdvancedBionicArm.label>
+	<CreateAdvancedBionicArm.description>Crée un bras bionique avancé.</CreateAdvancedBionicArm.description>
+    <CreateAdvancedBionicArm.jobString>En train decréer un bras bionique avancé</CreateAdvancedBionicArm.jobString>
 	
-	<CreateAdvancedBionicHand.label>Модернизировать бионическую кисть</CreateAdvancedBionicHand.label>
-	<CreateAdvancedBionicHand.description>Модернизация бионической кисти с помощью вансидиума.</CreateAdvancedBionicHand.description>
-    <CreateAdvancedBionicHand.jobString>Модернизация бионического протеза</CreateAdvancedBionicHand.jobString>
+	<CreateAdvancedBionicHand.label>Créer une main bionique avancée</CreateAdvancedBionicHand.label>
+	<CreateAdvancedBionicHand.description>Crée une main bionique avancée.</CreateAdvancedBionicHand.description>
+    <CreateAdvancedBionicHand.jobString>En train de créer une main bionique avancée</CreateAdvancedBionicHand.jobString>
 	
-	<CreateAdvancedBionicFoot.label>Модернизировать бионическую ступню</CreateAdvancedBionicFoot.label>
-	<CreateAdvancedBionicFoot.description>Модернизация бионической ступни с помощью вансидиума.</CreateAdvancedBionicFoot.description>
-    <CreateAdvancedBionicFoot.jobString>Модернизация бионического протеза</CreateAdvancedBionicFoot.jobString>
+	<CreateAdvancedBionicFoot.label>Créer un pied bionique avancé</CreateAdvancedBionicFoot.label>
+	<CreateAdvancedBionicFoot.description>Crée un pied bionique avancé.</CreateAdvancedBionicFoot.description>
+    <CreateAdvancedBionicFoot.jobString>En train decréer un pied bionique avancé</CreateAdvancedBionicFoot.jobString>
 	
-	<CreateAdvancedBionicLeg.label>Модернизировать бионическую ногу</CreateAdvancedBionicLeg.label>
-	<CreateAdvancedBionicLeg.description>Модернизация бионической ноги с помощью вансидиума.</CreateAdvancedBionicLeg.description>
-    <CreateAdvancedBionicLeg.jobString>Модернизация бионического протеза</CreateAdvancedBionicLeg.jobString>
+	<CreateAdvancedBionicLeg.label>Créer une jambe bionique avancée</CreateAdvancedBionicLeg.label>
+	<CreateAdvancedBionicLeg.description>Crée un jambe bionique avancée.</CreateAdvancedBionicLeg.description>
+    <CreateAdvancedBionicLeg.jobString>En train decréer une jambe bionique avancée</CreateAdvancedBionicLeg.jobString>
 	
-	<CreateAdvancedBionicEar.label>Модернизировать бионическое ухо</CreateAdvancedBionicEar.label>
-	<CreateAdvancedBionicEar.description>Модернизация бионического уха с помощью вансидиума.</CreateAdvancedBionicEar.description>
-    <CreateAdvancedBionicEar.jobString>Модернизация бионического протеза</CreateAdvancedBionicEar.jobString>
+	<CreateAdvancedBionicEar.label>Créer une oreille bionique avancé</CreateAdvancedBionicEar.label>
+	<CreateAdvancedBionicEar.description>Crée une oreille bionique avancé.</CreateAdvancedBionicEar.description>
+    <CreateAdvancedBionicEar.jobString>En train de créer une oreille bionique avancé</CreateAdvancedBionicEar.jobString>
 	
-	<CreateAdvancedBionicJaw.label>Модернизировать бионическую челюсть</CreateAdvancedBionicJaw.label>
-	<CreateAdvancedBionicJaw.description>Модернизация бионической челюсти с помощью вансидиума.</CreateAdvancedBionicJaw.description>
-    <CreateAdvancedBionicJaw.jobString>Модернизация бионического протеза</CreateAdvancedBionicJaw.jobString> 
+	<CreateAdvancedBionicJaw.label>Créer une mâchoire bionique avancé</CreateAdvancedBionicJaw.label>
+	<CreateAdvancedBionicJaw.description>Crée une mâchoire bionique avancé.</CreateAdvancedBionicJaw.description>
+    <CreateAdvancedBionicJaw.jobString>En train decréer une mâchoire bionique avancé</CreateAdvancedBionicJaw.jobString> 
 	
-	<CreateAdvancedBionicSpine.label>Модернизировать бионический позвоночник</CreateAdvancedBionicSpine.label>
-	<CreateAdvancedBionicSpine.description>Модернизация бионического позвоночника с помощью вансидиума.</CreateAdvancedBionicSpine.description>
-	<CreateAdvancedBionicSpine.jobString>Модернизация бионического протеза</CreateAdvancedBionicSpine.jobString>
+	<CreateAdvancedBionicSpine.label>Créer une colonne vertébrale bionique avancée</CreateAdvancedBionicSpine.label>
+	<CreateAdvancedBionicSpine.description>Crée une colonne vertébrale bionique avancée.</CreateAdvancedBionicSpine.description>
+	<CreateAdvancedBionicSpine.jobString>En train decréer une colonne vertébrale bionique avancée</CreateAdvancedBionicSpine.jobString>
 	
-	<CreatePowerClaw.label>Модернизировать клинок жнеца</CreatePowerClaw.label>
-	<CreatePowerClaw.description>Модернизация клинка жнеца до силового когтя используя сталь и вансидиум.</CreatePowerClaw.description>
-    <CreatePowerClaw.jobString>Модернизация бионического протеза</CreatePowerClaw.jobString>
+	<CreatePowerClaw.label>Créer une puissante griffe</CreatePowerClaw.label>
+	<CreatePowerClaw.description>Crée une puissante griffe.</CreatePowerClaw.description>
+    <CreatePowerClaw.jobString>En train de créer une puissante griffe</CreatePowerClaw.jobString>
 	
 </LanguageData>

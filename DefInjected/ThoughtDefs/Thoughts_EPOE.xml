@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rep>
+    <path>DruggedRibThought.stages[0].label</path>
+    <trans>Côte (drogue)</trans>
+  </rep>
+  <rep>
+    <path>DruggedRibThought.stages[0].description</path>
+    <trans>Je ne sais pas pourquoi, mais je suis relaxé.</trans>
+  </rep>
+
+  <rep>
+    <path>SilentJawThought.stages[0].label</path>
+    <trans>Mâchoire silencieuse</trans>
+  </rep>
+  <rep>
+    <path>SilentJawThought.stages[0].description</path>
+    <trans>Je veux juste pouvoir parler, c'est atroce !</trans>
+  </rep>
+
+</LanguageData>

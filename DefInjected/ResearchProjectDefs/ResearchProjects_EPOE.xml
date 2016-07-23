@@ -1,25 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<SimpleProsthetics.label>Простое протезирование</SimpleProsthetics.label>
-	<SimpleProsthetics.description>Расширенное исследование анатомии даст вам возможность создавать простые протезы.</SimpleProsthetics.description>
-	
-	<VancidiumRefineryTech.label>Очистка вансидиума</VancidiumRefineryTech.label>
-	<VancidiumRefineryTech.description>Во время объединения различных материалов, вы случайным образом создали очень легкий, но прочных материал, который можно использовать для создания улучшенных протезов.</VancidiumRefineryTech.description>
-	
-	<Bionics.label>Бионика</Bionics.label>
-	<Bionics.description>Исследование мелкой моторики и схем открывает возможность сделать более продвинутые протезы.</Bionics.description>
+	<SimpleProsthetics.label>Prothèse simple</SimpleProsthetics.label>
+	<SimpleProsthetics.description>Des études approfondies sur l'anatomie et des tests de différents matériaux vous permettront de fabriquer des prothèses simple.</SimpleProsthetics.description>
 
-	<AdvancedBionics.label>Продвинутая бионика</AdvancedBionics.label>
-	<AdvancedBionics.description>Исследование мелкой моторики и схем открывает возможность сделать более продвинутые протезы.</AdvancedBionics.description>
-	
-	<SurrogateOrgans.label>Пересадка органов</SurrogateOrgans.label>
-    <SurrogateOrgans.description>Изучая медицину мы разобрались как создавать простые заменители органов для замены недостающих.</SurrogateOrgans.description>
+	<Bionics.label>Bioniques</Bionics.label>
+	<Bionics.description>En découvrant le concept des moteurs et circuits miniaturisés, de nouvelles possibilités d'améliorations de prothèses vous sont disponibles.</Bionics.description>
 
-	<SyntheticOrgans.label>Синтетические органы</SyntheticOrgans.label>
-    <SyntheticOrgans.description>Дальнейшие исследования в нанотехнологии позволяют создавать невероятно хорошо спроектированные искусственные органы.</SyntheticOrgans.description>
-	
-	<RibReplacements.label>Замена ребер</RibReplacements.label>
-	<RibReplacements.description>С открытием чрезвычайно маленьких устройств для введения лекарств, вы подумываете о расположении их в ребрах.</RibReplacements.description>
+	<AdvancedBionics.label>Bioniques avancés</AdvancedBionics.label>
+	<AdvancedBionics.description>Améliore les prothèses bionique ordinaire avec du vancidium, afin de les rendre encore plus fiable.</AdvancedBionics.description>
+
+	<SurrogateOrgans.label>Organes artificiels</SurrogateOrgans.label>
+	<SurrogateOrgans.description>En acquérant des connaissances médicales approfondies, la création d'organes artificiels devient possible, afin de remplacer des organes détruits ou manquants.</SurrogateOrgans.description>
+
+	<SyntheticOrgans.label>Organes synthétiques</SyntheticOrgans.label>
+	<SyntheticOrgans.description>Des recherches poussées en nanotechnologie vous permettent de créer des organes artificiels incroyablement bien conçu.</SyntheticOrgans.description>
+
+	<VancidiumRefineryTech.label>Vancidium et composants avancés</VancidiumRefineryTech.label>
+	<VancidiumRefineryTech.description>Tandis que vous combinez différents matériaux, vous découvrez comment créer un matériau très léger, mais robuste, qui pourrait être utiliser pour fabriquer des prothèses de meilleures qualités. Vous pouvez maintenant fabriquer du vancidium au fondeur électrique, mais aussi assembler des composants avancés à l'établie d'assemblage !</VancidiumRefineryTech.description>
+
+	<RibReplacements.label>Remplacement des côtes</RibReplacements.label>
+	<RibReplacements.description>En découvrant le concept des distributeurs miniaturisés, vous pensez à les implanter dans des côtes.</RibReplacements.description>
 
 </LanguageData>

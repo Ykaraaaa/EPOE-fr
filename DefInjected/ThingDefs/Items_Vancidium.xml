@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-	<Vancidium.label>Вансидиум</Vancidium.label>
-	<Vancidium.description>Дорогой и качественный материал. Ярко светится.</Vancidium.description>
+  
+  <Vancidium.label>Vancidium</Vancidium.label>
+  <Vancidium.description>Un matériau riche, de très bonne qualité conçu au moyen d'un procédé de haute technologie. Ça brille.</Vancidium.description>
+  <Vancidium.stuffProps.stuffAdjective>vancidium</Vancidium.stuffProps.stuffAdjective>
 
 </LanguageData>

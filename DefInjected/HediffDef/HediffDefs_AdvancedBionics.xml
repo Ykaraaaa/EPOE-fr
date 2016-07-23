@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 		
-	<AdvancedBionicHand.label>Улучшенная бионическая кисть</AdvancedBionicHand.label>
-	<AdvancedBionicFoot.label>Улучшенная бионическая ступня</AdvancedBionicFoot.label>
-	<AdvancedBionicSpine.label>Улучшенный бионический позвоночник</AdvancedBionicSpine.label>
-	<AdvancedBionicJaw.label>Улучшенная бионическая челюсть</AdvancedBionicJaw.label>
-	<AdvancedBionicEar.label>Улучшенное бионическое ухо</AdvancedBionicEar.label>
-	<AdvancedPowerArm.label>Улучшенная силовая рука</AdvancedPowerArm.label>
-	<AdvancedBionicLeg.label>Улучшенная бионическая нога</AdvancedBionicLeg.label>
-	<AdvancedBionicArm.label>Улучшенная бионическая рука</AdvancedBionicArm.label>
-	<AdvancedBionicEye.label>Улучшенный бионический глаз</AdvancedBionicEye.label>
+   <AdvancedBionicHand.label>Main bionique avancée</AdvancedBionicHand.label>
+   <AdvancedBionicFoot.label>Pied bionique avancé</AdvancedBionicFoot.label>
+   <AdvancedBionicSpine.label>Colonne vertébrale avancée</AdvancedBionicSpine.label>
+   <AdvancedBionicJaw.label>Mâchoire bionique avancée</AdvancedBionicJaw.label>
+   <AdvancedBionicEar.label>Oreille bionique avancée</AdvancedBionicEar.label>
+   <AdvancedPowerArm.label>Bras puissant avancé</AdvancedPowerArm.label>
+   <AdvancedBionicLeg.label>Jambe bionique avancée</AdvancedBionicLeg.label>
+   <AdvancedBionicArm.label>Bras bionique avancé</AdvancedBionicArm.label>
+   <AdvancedBionicEye.label>Oeil bionique avancée</AdvancedBionicEye.label>
 	
 </LanguageData>

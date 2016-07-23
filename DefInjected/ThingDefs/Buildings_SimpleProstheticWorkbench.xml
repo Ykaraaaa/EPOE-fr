@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<TableSimpleProsthetic.label>Стол простого протезирования</TableSimpleProsthetic.label>
-	<TableSimpleProsthetic.description>Стол оснащенный для простого протезирования.</TableSimpleProsthetic.description>
+  <TableSimpleProsthetic.label>Atelier de prothésiste (simple)</TableSimpleProsthetic.label>
+  <TableSimpleProsthetic.Description>Un atelier équipé pour la production de prothèses simple.</TableSimpleProsthetic.Description>
 
 </LanguageData>

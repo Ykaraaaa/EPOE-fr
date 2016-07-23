@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<TableSynthetics.label>Стол синтетических органов</TableSynthetics.label>
-	<TableSynthetics.description>Рабочая станция полностью оснащеная чрезвычайно мощным нано-принтерем.</TableSynthetics.description>
+  <TableSynthetics.label>Assembleur d'organes synthétiques</TableSynthetics.label>
+  <TableSynthetics.Description>Un poste de travail équipé de puissantes nano-imprimantes.</TableSynthetics.Description>
 
 </LanguageData>

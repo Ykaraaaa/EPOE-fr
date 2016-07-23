@@ -1,22 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<SteelArm.label>Стальная рука</SteelArm.label>
-	<SteelArm.description>Очень плохая замена руки. Выглядит плохо, чувствуется плохо, все плохо.</SteelArm.description>
+	<SteelArm.label>Bras en acier</SteelArm.label>
+	<SteelArm.Description>Un bras de remplacement médiocre. Ce n'est pas qu'une impression ou un sentiment : c'est vraiment médiocre.</SteelArm.Description>
 
-	<EyePatch.label>Глазная повязка</EyePatch.label>
-	<EyePatch.description>Глазная повязка. Устрашающе.</EyePatch.description>
-	
-	<HookHand.label>Рука-крюк</HookHand.label>
-	<HookHand.description>Замена потерянной кисте. Довольно страшно. Арррр!</HookHand.description>
-	
-	<denture.label>Зубной протез</denture.label>
-	<denture.description>Замена отсутствующей челюсти с деревянными зубами. Немного пахнет.</denture.description>
-	
-	<PegLeg.label>Деревянная нога</PegLeg.label>
-	<PegLeg.description>Замена потерянной ноги. Не модно, но выполняет свою работу очень хорошо.</PegLeg.description>
-	
-	<WoodenFoot.label>Деревянная ступня</WoodenFoot.label>
-	<WoodenFoot.description>Замена потерянной ступни. Более удобно, чем прыгать на одной ноге.</WoodenFoot.description>
+	<EyePatch.label>Cache-oeil</EyePatch.label>
+	<EyePatch.description>Couvre l'orbite de l'oeil. Intimidant.</EyePatch.description>
+
+	<HookHand.label>Main-crochet</HookHand.label>
+	<HookHand.description>Remplace une main manquante. Plutôt effrayant. Yarrr !</HookHand.description>
+
+	<denture.label>Dentier</denture.label>
+	<denture.description>Remplace une mâchoire manquante avec des dents en bois. Ça sent un peu.</denture.description>
+
+	<PegLeg.label>Jambe de bois</PegLeg.label>
+	<PegLeg.description>Remplace une jambe manquante par une jambe de bois. Rudimentaire mais plutôt efficace.</PegLeg.description>
+
+	<WoodenFoot.label>Pied en bois</WoodenFoot.label>
+	<WoodenFoot.description>Remplace un pied manquant par un pied en bois. Au moins, c'est plus confortable que de se déplacer à cloche pied.</WoodenFoot.description>
 
 </LanguageData>

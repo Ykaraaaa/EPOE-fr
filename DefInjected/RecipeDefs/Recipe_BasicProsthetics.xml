@@ -1,29 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<InstallSteelArm.label>Установить стальную руку</InstallSteelArm.label>
-	<InstallSteelArm.description>Установка стальной руки.</InstallSteelArm.description>
-	<InstallSteelArm.jobString>Установка стальной руки.</InstallSteelArm.jobString>
+	<InstallSteelArm.label>Installer un bras en acier</InstallSteelArm.label>
+	<InstallSteelArm.description>Installe un bras en acier.</InstallSteelArm.description>
+	<InstallSteelArm.jobString>En train d'installer un bras en acier</InstallSteelArm.jobString>
 
-	<InstallEyePatch.label>Надеть повязку на глаз</InstallEyePatch.label>
-	<InstallEyePatch.description>Надевание повязки на глаз.</InstallEyePatch.description>
-	<InstallEyePatch.jobString>Надевание повязки на глаз</InstallEyePatch.jobString>
+	<InstallEyePatch.label>Installer un cache-oeil</InstallEyePatch.label>
+	<InstallEyePatch.description>Installe un cache-oeil.</InstallEyePatch.description>
+	<InstallEyePatch.jobString>En train d'installer un cache-oeil</InstallEyePatch.jobString>
 
-	<InstallHookHand.label>Установить руку-крюк</InstallHookHand.label>
-	<InstallHookHand.description>Установить руку-крюк.</InstallHookHand.description>
-	<InstallHookHand.jobString>Установка руки-крюка</InstallHookHand.jobString>
+	<InstallHookHand.label>Installer une main-crochet</InstallHookHand.label>
+	<InstallHookHand.description>Installe une main-crochet.</InstallHookHand.description>
+	<InstallHookHand.jobString>En train d'installer une main-crochet</InstallHookHand.jobString>
 
-	<InstallDenture.label>Установить зубной протез</InstallDenture.label>
-	<InstallDenture.description>Установка простого зубного протеза.</InstallDenture.description>
-	<InstallDenture.jobString>Установка простого зубного протеза</InstallDenture.jobString>
+	<InstallDenture.label>Installer un dentier</InstallDenture.label>
+	<InstallDenture.description>Installe un dentier.</InstallDenture.description>
+	<InstallDenture.jobString>En train d'installer un dentier</InstallDenture.jobString>
 
-	<InstallWoodenFoot.label>Установить деревянную ступню</InstallWoodenFoot.label>
-	<InstallWoodenFoot.description>Установка деревянной сутпни.</InstallWoodenFoot.description>
-	<InstallWoodenFoot.jobString>Установка деревянной сутпни</InstallWoodenFoot.jobString>
+	<InstallWoodenFoot.label>Installer un pied en bois</InstallWoodenFoot.label>
+	<InstallWoodenFoot.description>Installe un pied en bois.</InstallWoodenFoot.description>
+	<InstallWoodenFoot.jobString>En train d'installer un pied en bois</InstallWoodenFoot.jobString>
 
-	<InstallPegLeg.label>Установить деревянную ногу</InstallPegLeg.label>
-	<InstallPegLeg.description>Установка деревянной ноги.</InstallPegLeg.description>
-	<InstallPegLeg.jobString>Установка деревянной ноги</InstallPegLeg.jobString>
+	<InstallPegLeg.label>Installer une jambe de bois</InstallPegLeg.label>
+	<InstallPegLeg.description>Installe une jambe de bois.</InstallPegLeg.description>
+	<InstallPegLeg.jobString>En train d'installer une jambe de bois</InstallPegLeg.jobString>
 
 
 </LanguageData>

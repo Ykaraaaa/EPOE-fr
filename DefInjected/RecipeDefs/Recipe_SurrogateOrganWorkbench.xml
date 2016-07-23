@@ -1,28 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<CreateBrainStimulator.label>Смастерить стимулятор мозга</CreateBrainStimulator.label>
-	<CreateBrainStimulator.description>Создание простого стимулятора мозга из стали и пластали.</CreateBrainStimulator.description>
-    <CreateBrainStimulator.jobString>Создание заменителя органов</CreateBrainStimulator.jobString>
+	<CreateBrainStimulator.label>Créer un stimulateur cérébral</CreateBrainStimulator.label>
+	<CreateBrainStimulator.description>Crée un stimulateur cérébral.</CreateBrainStimulator.description>
+    <CreateBrainStimulator.jobString>En train de créer un stimulateur cérébral</CreateBrainStimulator.jobString>
 	
-	<CreateSurrogateLung.label>Смастерить заменитель легкого</CreateSurrogateLung.label>
-	<CreateSurrogateLung.description>Создание заменителя легкого из ткани и пластали.</CreateSurrogateLung.description>
-    <CreateSurrogateLung.jobString>Создание заменителя органов</CreateSurrogateLung.jobString>
+	<CreateSurrogateLung.label>Créer un poumon artificiel</CreateSurrogateLung.label>
+	<CreateSurrogateLung.description>Crée un poumon artificiel.</CreateSurrogateLung.description>
+    <CreateSurrogateLung.jobString>En train de créer un poumon artificiel</CreateSurrogateLung.jobString>
 	
-	<CreateSurrogateStomach.label>Смастерить заменитель желудка</CreateSurrogateStomach.label>
-	<CreateSurrogateStomach.description>Создание заменителя желудка из ткани и пластали.</CreateSurrogateStomach.description>
-    <CreateSurrogateStomach.jobString>Создание заменителя органов</CreateSurrogateStomach.jobString>
+	<CreateSurrogateStomach.label>Créer un estomac artificiel</CreateSurrogateStomach.label>
+	<CreateSurrogateStomach.description>Crée un estomac artificiel.</CreateSurrogateStomach.description>
+    <CreateSurrogateStomach.jobString>En train de créer un estomac artificiel</CreateSurrogateStomach.jobString>
 	
-	<CreateSurrogateLiver.label>Смастерить заменитель печени</CreateSurrogateLiver.label>
-	<CreateSurrogateLiver.description>Создание заменителя печени из ткани и пластали.</CreateSurrogateLiver.description>
-    <CreateSurrogateLiver.jobString>Создание заменителя органов</CreateSurrogateLiver.jobString>
+	<CreateSurrogateLiver.label>Créer un foie artificiel</CreateSurrogateLiver.label>
+	<CreateSurrogateLiver.description>Crée un foie artificiel.</CreateSurrogateLiver.description>
+    <CreateSurrogateLiver.jobString>En train de créer un foie artificiel</CreateSurrogateLiver.jobString>
 
-	<CreateSurrogateKidney.label>Смастерить заменитель почки</CreateSurrogateKidney.label>
-	<CreateSurrogateKidney.description>Создание заменителя почки из ткани и пластали.</CreateSurrogateKidney.description>
-    <CreateSurrogateKidney.jobString>Создание заменителя органов</CreateSurrogateKidney.jobString>
+	<CreateSurrogateKidney.label>Créer un rein artificiel</CreateSurrogateKidney.label>
+	<CreateSurrogateKidney.description>Créerun rein artificiel.</CreateSurrogateKidney.description>
+    <CreateSurrogateKidney.jobString>En train de créer un rein artificiel</CreateSurrogateKidney.jobString>
 	
-	<CreateSurrogateHeart.label>Смастерить заменитель сердца</CreateSurrogateHeart.label>
-	<CreateSurrogateHeart.description>Создание заменителя сердца из ткани и пластали.</CreateSurrogateHeart.description>
-    <CreateSurrogateHeart.jobString>Создание заменителя органов</CreateSurrogateHeart.jobString>
+	<CreateSurrogateHeart.label>Créer un coeur artificiel</CreateSurrogateHeart.label>
+	<CreateSurrogateHeart.description>Crée un coeur artificiel.</CreateSurrogateHeart.description>
+    <CreateSurrogateHeart.jobString>En train de créer un coeur artificiel</CreateSurrogateHeart.jobString>
 	
 </LanguageData>

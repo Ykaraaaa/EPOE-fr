@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 		
-	<BrainStimulator.label>Стимулятор мозга</BrainStimulator.label>
-	<SurrogateStomach.label>Заменитель желудка</SurrogateStomach.label>
-	<SurrogateLung.label>Заменитель легкого</SurrogateLung.label>
-	<SurrogateLiver.label>Заменитель печени</SurrogateLiver.label>
-	<SurrogateKidney.label>Заменитель почки</SurrogateKidney.label>
-	<SurrogateHeart.label>Искусственное сердце</SurrogateHeart.label>
+    <BrainStimulator.label>Stimulateur cérébral</BrainStimulator.label>
+    <SurrogateLung.label>Poumon artificiel</SurrogateLung.label>
+    <SurrogateStomach.label>Estomac artificiel</SurrogateStomach.label>
+    <SurrogateLiver.label>Foie artificiel</SurrogateLiver.label>
+    <SurrogateKidney.label>Rein artificiel</SurrogateKidney.label>
+    <SurrogateHeart.label>Coeur artificiel</SurrogateHeart.label>
 	
 </LanguageData>

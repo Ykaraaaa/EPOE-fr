@@ -1,28 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-	<Leg.label>Нога</Leg.label>
-	<Leg.description>Длинные мясистые палочки, которые позволяют передвигаться.</Leg.description>
-
-	<Arm.label>Рука</Arm.label>
-	<Arm.description>Руки как ноги за исключением того, что вы можете носить ими вещи.</Arm.description>
-
-	<Stomach.label>Желудок</Stomach.label>
-	<Stomach.description>Переваривает пищу и превращает ее в энергию.</Stomach.description>
-
-	<Brain.label>Мозг</Brain.label>
-	<Brain.description>Мозг.</Brain.description>
-
-	<Eye.label>Глазное яблоко</Eye.label>
-	<Eye.description>Поглотитель света, который позволяет человеку знать, что происходит вокруг него.</Eye.description>
-
-	<Nose.label>Нос</Nose.label>
-	<Nose.description>Полезный орган для отличения запахов.</Nose.description>
-
-	<Ear.label>Ухо</Ear.label>
-	<Ear.description>Улавливает вибрации в воздухе, позволяя людям слышать звук.</Ear.description>
-
-	<Jaw.label>Челюсть</Jaw.label>
-	<Jaw.description>Набор зубов для пережевывания пищи и разговора.</Jaw.description>
-
+  
+  <Leg.label>Jambe</Leg.label>
+  <Leg.description>Un long bâton charnu permettant de se déplacer.</Leg.description>
+  
+  <Arm.label>Bras</Arm.label>
+  <Arm.description>Un long bâton charnu permettant de transporter des choses.</Arm.description>
+  
+  <Stomach.label>Estomac</Stomach.label>
+  <Stomach.description>Digère la nourriture et la convertie en énergie et nutriments.</Stomach.description>
+  
+  <Eye.label>Oeil</Eye.label>
+  <Eye.description>Absorbe les lumières, ce qui permet à l'utilisateur de savoir ce qui est autour de lui.</Eye.description>
+  
+  <Nose.label>Nez</Nose.label>
+  <Nose.description>Un organe pratique permettant de distinguer les odeurs, s'appliquant en finalité à un visage.</Nose.description>
+  
+  <Ear.label>Oreille</Ear.label>
+  <Ear.description>Capte les vibrations dans l'air, permettant à l'utilisateur d'entendre les sons.</Ear.description>
+  
+  <Jaw.label>Mâchoire</Jaw.label>
+  <Jaw.description>Une bonne dentition pour mâcher du chewing-gum et discuter.</Jaw.description>
+  
 </LanguageData>
