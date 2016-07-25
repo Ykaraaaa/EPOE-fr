@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+      <MinceOrgans.label>Hâcher des organes</MinceOrgans.label>
+      <MinceOrgans.description>Hâcher des organes humains pour en faire de la viande comestible. Un bon repas, pour des prisonniers...</MinceOrgans.description>
+      
+
+      <MinceLimbs.label>Hâcher des membres</MinceLimbs.label>
+      <MinceLimbs.description>Hâcher des membres humains pour en faire de la viande comestible. Attention aux ongles de pieds.</MinceLimbs.description>
+ 
+ </LanguageData>
