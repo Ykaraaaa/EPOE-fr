@@ -37,4 +37,8 @@
 	<CreateCrystalEye.description>Crée un oeil en cristal.</CreateCrystalEye.description>
     <CreateCrystalEye.jobString>En train de créer un oeil en cristal</CreateCrystalEye.jobString>
 
+	<CreateGoldenEye.label>Créer un oeil en or</CreateGoldenEye.label>
+	<CreateGoldenEye.description>Crée un oeil en or</CreateGoldenEye.description>
+	<CreateGoldenEye.jobString>En train de créer un oeil en or</CreateGoldenEye.jobString>
+	
 </LanguageData>

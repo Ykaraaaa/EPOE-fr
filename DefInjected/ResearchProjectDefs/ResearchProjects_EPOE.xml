@@ -2,13 +2,13 @@
 <LanguageData>
 
 	<SimpleProsthetics.label>Prothèses simples</SimpleProsthetics.label>
-	<SimpleProsthetics.description>Des études approfondies sur l'anatomie ainsi que des essais sur différents matériaux vous permettent à présent de fabriquer des prothèses simple.</SimpleProsthetics.description>
+	<SimpleProsthetics.description>Des études approfondies sur l'anatomie ainsi que des essais sur différents matériaux vous permettent à présent de fabriquer des prothèses simples.</SimpleProsthetics.description>
 
 	<Bionics.label>Bioniques</Bionics.label>
 	<Bionics.description>En découvrant le concept des moteurs et des circuits miniaturisés, de nouvelles possibilités d'améliorations de prothèses vous sont disponibles.</Bionics.description>
 
 	<AdvancedBionics.label>Bioniques avancés</AdvancedBionics.label>
-	<AdvancedBionics.description>Améliorez les prothèses bionique ordinaire avec du vancidium, afin de les rendre encore plus fiable.</AdvancedBionics.description>
+	<AdvancedBionics.description>Améliorez les prothèses bioniques ordinaire avec du vancidium, afin de les rendre encore plus performantes.</AdvancedBionics.description>
 
 	<SurrogateOrgans.label>Organes artificiels</SurrogateOrgans.label>
 	<SurrogateOrgans.description>En approfondissant vos connaissances médicales, la création d'organes artificiels devient possible, afin de remplacer des organes détruits ou manquants.</SurrogateOrgans.description>

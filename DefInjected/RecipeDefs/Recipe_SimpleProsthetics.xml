@@ -37,4 +37,7 @@
 	<InstallArtificialPelvis.description>Installe un bassin artificiel.</InstallArtificialPelvis.description>
     <InstallArtificialPelvis.jobString>En train d'installer un bassin artificiel</InstallArtificialPelvis.jobString>
 	
+	<InstallGoldenEye.label>Installer un oeil en or</InstallGoldenEye.label>
+	<InstallGoldenEye.description>Installe un oeil en or</InstallGoldenEye.description>
+	<InstallGoldenEye.jobString>En train d'installer un oeil en or</InstallGoldenEye.jobString>
 </LanguageData>
